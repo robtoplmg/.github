@@ -1,2 +1,6 @@
-copy geode/edetor botton 1%spwan chance-mod/all tectre random 
-
+/swihch=minctaft texture.pmg=file 
+/spawn=block texture 
+.spawn
+when spawned.open.pmg
+.file/pmg
+take.all textures/reset with 3d.pmg file
