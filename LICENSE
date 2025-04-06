@@ -1,6 +1,1 @@
-/swihch=minctaft texture.pmg=file 
-/spawn=block texture 
-.spawn
-when spawned.open.pmg
-.file/pmg
-take.all textures/reset with 3d.pmg file
+/fill abaham links=s 467.646.088 s .fill
