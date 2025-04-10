@@ -1,1 +1,1 @@
-/fill .1e:9d:8d:ac:e1:cf=s(name.natalia's iPhone).pmg.(password.glitter98).pmg.s=fill
+/fill 192.0.0.2 s .ip adress (if unverifd reset program).pmg file
